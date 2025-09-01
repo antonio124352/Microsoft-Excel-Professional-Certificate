@@ -1,1 +1,45 @@
+This repository contains my final project for Course 2, Data Cleaning & Processing with Copilot in Excel, of the Microsoft Excel Skills Professional Certificate (Coursera).
+For the final project, I worked with a global mobility company dataset to simulate real-world sales analysis. 
+The project focused on cleaning, organizing, and preparing messy datasets for accurate reporting and actionable insights.
 
+Key tasks and techniques:
+
+Data cleaning & standardization:
+
+  -Identified and removed duplicate records using Copilot.
+
+  -Standardized currency formats into a single unit and rounded values for consistency.
+
+  -Converted units of measurement (e.g., speed, weight) into uniform standards.
+
+  -Imputed missing values by applying logical rules based on dataset patterns.
+
+Data transformation & structuring:
+
+  -Split full addresses into street, city, postal code and expanded country codes into full names.
+
+  -Grouped countries into continents for regional analysis.
+
+  -Combined first and last names into full names for readability.
+
+  -Created custom columns for ranges (min–max values) and total sales (including discounts/refunds).
+
+Formatting & presentation:
+
+  -Applied conditional formatting to highlight key sales patterns.
+
+  -Improved readability through alignment, clean headers, and uniform presentation.
+
+Data analysis & insights:
+
+  Built PivotTables to analyze:
+
+  -Sales by region, month, and quarter.
+
+  -Top-performing product categories and sales reps.
+
+  -Lowest performers and underperforming regions.
+
+  -Revenue vs. expenses for profitability trends.
+
+  -Summarized total sales across product types and geographies.
