@@ -1,1 +1,43 @@
+This repository contains my final project for Course 3, Advanced Data Analysis & Visualization with Copilot in Excel, of the Microsoft Excel Skills Professional Certificate (Coursera).
+For the final project I worked with a global sports equipment retailer dataset to evaluate sales performance, uncover trends, and deliver a data-driven report. 
+The project emphasized advanced analysis, PivotTables, and effective visual storytelling.
 
+Key tasks and techniques:
+
+  -Data organization & preparation
+
+  -Sorted and filtered data by product, region, and sales rep for targeted insights.
+
+  -Created new calculated fields (mean, median, standard deviation) to summarize performance.
+
+  -Categorized values into thresholds (Low, Average, High) for easier performance assessment.
+
+Statistical & advanced analysis:
+
+  -Performed covariance and correlation analysis to evaluate relationships (e.g., price vs. sales).
+
+  -Retrieved and aggregated quarterly and category-level sales data.
+
+  -Calculated key performance metrics (totals, averages, counts) to benchmark business units.
+
+Data visualization with Copilot:
+
+  -Built multiple chart types (line, bar, pie, clustered bar) to highlight sales trends and category comparisons.
+
+  -Generated PivotTables and PivotCharts to analyze:
+
+    Sales by region, product, and quarter.
+
+    Top- and bottom-performing sales reps.
+
+    Discount impact on revenue and profitability.
+
+  -Enhanced PivotCharts with slicers, filters, timelines, and drill-downs for interactive analysis.
+
+Report creation & storytelling:
+
+  -Compiled findings into a sales performance report, combining visualizations, summaries, and recommendations.
+
+  -Identified three key improvement areas to guide strategic decisions.
+
+  -Optimized layout and design for clarity, accessibility, and executive readability.
