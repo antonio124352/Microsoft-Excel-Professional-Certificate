@@ -1,1 +1,54 @@
+For the capstone project of the Microsoft Excel Professional Certificate, I built an event management and forecasting dashboard for the Tech Innovators Summit. This project combined Excel Copilot, 
+VBA macros, forecasting functions, and scenario planning to deliver an interactive, automated, and professional-grade solution.
 
+Key tasks and techniques:
+
+  -Dataset creation & preparation:
+
+    -Constructed a 100-row dataset with attendee details, ticket categories, marketing spend, and event costs.
+
+    -Ensured structured, consistent data to support reliable analysis and forecasting.
+
+UserForm design with VBA:
+
+  -Built a custom Attendee Management UserForm using ActiveX controls:
+
+    -TextBoxes (ID, name, email, registration date)
+
+    -ComboBox (ticket type, session preferences)
+
+    -RadioButtons (online vs. in-person attendance)
+
+    -ListBox (dietary preferences)
+
+    -Buttons (Submit, Fetch, Update, Cancel)
+
+  -Wrote VBA code for data submission, retrieval, and updates, with comments for readability.
+
+Forecasting & financial modeling:
+
+  -Applied =FORECAST.ETS() and the Forecast Sheet to predict future attendance and ticket sales.
+
+  -Created projections for attendance, ticket revenue, and costs on a Projections sheet.
+
+  -Used Goal Seek to calculate ticket price and attendance levels required to hit profit targets.
+
+Interactive dashboard development:
+
+  -Designed a professional Event Dashboard with:
+
+    -Key KPIs: total attendees, revenue, profit.
+
+    -Visuals: revenue by session (bar), attendee trends (line), online vs. in-person (pie).
+
+    -Slicers (attendance type, session preferences) and timeline filters for interactivity.
+
+  -Enhanced usability with dynamic updates via macros (Refresh Dashboard button).
+
+Scenario planning (Budget Challenge):
+
+  -Duplicated and modified dashboard for updated financial goals (marketing spend, operational costs, profit target).
+
+  -Used Goal Seek to simulate new pricing and attendance requirements.
+
+  -Clearly labeled version as Budget Challenge Scenario, preserving interactivity and automation.
