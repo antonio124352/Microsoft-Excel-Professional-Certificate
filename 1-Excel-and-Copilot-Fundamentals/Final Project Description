@@ -1,16 +1,34 @@
-This repository contains my final project for Course 1 of the Microsoft Excel Skills Professional Certificate (Coursera).
+
+This repository contains my final project for Course 1, Excel and Copilot Fundamentals, of the Microsoft Excel Skills Professional Certificate (Coursera).
 The project demonstrates the application of Excel fundamentals and Microsoft Copilot to solve practical data problems.
 
-Key Highlights:
+Key tasks and techniques:
 
-Used Excel Copilot to automate basic tasks and queries
+Workbook setup & data entry: Organized headers, validated names, formatted date columns, and ensured clean data structure.
 
-Applied formulas and functions to perform calculations and manipulate data
+Formulas & lookups: Applied VLOOKUP/XLOOKUP to fetch contact and department details; used SUMIF to calculate actual attendance days.
 
-Cleaned and processed raw data with Copilot-assisted techniques
+Conditional formatting:
 
-Built clear data visualizations to present results effectively
+Highlighted attendance status (✅ Present in green, ❌ Absent in red).
 
-Practiced prompt engineering to improve Copilot outputs
+Applied unique color coding for departments.
 
-Skills Demonstrated: Microsoft Excel · Excel Formulas · Data Analysis · Data Cleaning · Data Manipulation · Data Visualization · Microsoft Copilot · Prompt Engineering
+Used data bars and scales to show attendance distribution.
+
+Copilot automation: Crafted and tested prompts to automate data cleaning, formatting, and table creation.
+
+Data analysis: Built PivotTables to analyze:
+
+Highest and lowest attendance days.
+
+Departmental attendance averages.
+
+% of participants meeting attendance requirements.
+
+Visualization: Designed charts to display daily attendance trends and group comparisons.
+
+Template creation: Delivered a reusable attendance tracker template for future workshops.
+
+
+
