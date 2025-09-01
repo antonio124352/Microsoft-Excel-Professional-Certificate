@@ -3,41 +3,41 @@ The project demonstrates the application of Excel fundamentals and Microsoft Cop
 
 Key tasks and techniques:
 
--Workbook setup & data entry: Organized headers, validated names, formatted date columns, and ensured clean data structure.
+  -Workbook setup & data entry: Organized headers, validated names, formatted date columns, and ensured clean data structure.
 
 Formulas & lookups: 
 
--Applied VLOOKUP/XLOOKUP to fetch contact and department details; used SUMIF to calculate actual attendance days.
+  -Applied VLOOKUP/XLOOKUP to fetch contact and department details; used SUMIF to calculate actual attendance days.
 
 Conditional formatting:
 
--Highlighted attendance status (✅ Present in green, ❌ Absent in red).
+  -Highlighted attendance status (✅ Present in green, ❌ Absent in red).
 
--Applied unique color coding for departments.
+  -Applied unique color coding for departments.
 
--Used data bars and scales to show attendance distribution.
+  -Used data bars and scales to show attendance distribution.
 
 Copilot automation: 
 
--Crafted and tested prompts to automate data cleaning, formatting, and table creation.
+  -Crafted and tested prompts to automate data cleaning, formatting, and table creation.
 
 Data analysis: 
 
--Built PivotTables to analyze:
+  -Built PivotTables to analyze:
 
--Highest and lowest attendance days.
+  -Highest and lowest attendance days.
 
--Departmental attendance averages.
+  -Departmental attendance averages.
 
--% of participants meeting attendance requirements.
+  -% of participants meeting attendance requirements.
 
 Visualization: 
 
--Designed charts to display daily attendance trends and group comparisons.
+  -Designed charts to display daily attendance trends and group comparisons.
 
 Template creation: 
 
--Delivered a reusable attendance tracker template for future workshops.
+  -Delivered a reusable attendance tracker template for future workshops.
 
 
 
